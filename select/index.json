@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "光放て！",
+  "base_artist": "Mami Yanagi",
+  "createdAt": "2025-12-01T12:02:32.936792Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "光放て！",
+      "artist": "柳麻美",
+      "has_synced": true,
+      "path": "select/01_光放て!_柳麻美.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "光放て! (short ver.)",
+      "artist": "Mami Yanagi",
+      "has_synced": true,
+      "path": "select/02_光放て!_(short_ver.)_Mami_Yanagi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "光放て！ short ver.",
+      "artist": "柳麻美",
+      "has_synced": true,
+      "path": "select/03_光放て!_short_ver._柳麻美.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "光放て! (inst ver.)",
+      "artist": "柳麻美",
+      "has_synced": true,
+      "path": "select/04_光放て!_(inst_ver.)_柳麻美.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "光放て!",
+      "artist": "柳麻美",
+      "has_synced": true,
+      "path": "select/05_光放て!_柳麻美.lrc"
+    }
+  ]
+}
